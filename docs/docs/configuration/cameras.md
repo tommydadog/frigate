@@ -106,6 +106,7 @@ This list of working and non-working PTZ cameras is based on user feedback.
 | Hanwha XNP-6550RH            |      ✅      |      ❌      |                                                                                                                                                 |
 | Hikvision                    |      ✅      |      ❌      | Incomplete ONVIF support (MoveStatus won't update even on latest firmware) - reported with HWP-N4215IH-DE and DS-2DE3304W-DE, but likely others |
 | Hikvision DS-2DE3A404IWG-E/W |      ✅      |      ✅      |                                                                                                                                                 |
+| Hik Clone PTZ-4518-IZ_AF     |      ✅      |      ❌      | Sold as Hik Compatible 18x Zoom on AliExpress. PTZ and preset works, no luck with FOV tracking.                                                 |
 | Reolink 511WA                |      ✅      |      ❌      | Zoom only                                                                                                                                       |
 | Reolink E1 Pro               |      ✅      |      ❌      |                                                                                                                                                 |
 | Reolink E1 Zoom              |      ✅      |      ❌      |                                                                                                                                                 |
